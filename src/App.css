@@ -13,6 +13,7 @@
   text-align: center;
   background-color: #396c96;
   color: white;
+  text-decoration: none;
 }
 .nav-link a.active {
   background-color:#4f94cc;
